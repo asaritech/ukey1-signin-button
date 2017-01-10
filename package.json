@@ -1,0 +1,17 @@
+{
+	"name": "ukey1-signin-button",
+	"author": "Asari Technologies Ltd.",
+	"description": "An unified sign-in button Ukey1",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/asaritech/ukey1-signin-button"
+	},
+	"license": "MIT",
+	"devDependencies": {
+		"gulp": "^3.9.1",
+		"gulp-clean-css": "^2.3.2",
+		"gulp-header": "^1.8.8",
+		"gulp-less": "^3.3.0",
+		"gulp-rename": "^1.2.2"
+	}
+}

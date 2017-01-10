@@ -1,0 +1,33 @@
+/*!
+ * Ukey1 sign-in button (https://github.com/asaritech/ukey1-signin-button)
+ * Copyright 2017 Asari Technologies Ltd.
+ * Licensed under MIT
+ */
+.ukey1-button {
+  background: #ffffff;
+  background-image: url('../img/ukey1-logo.png');
+  background-position: 10px 9px;
+  background-repeat: no-repeat;
+  background-size: 33px 20px;
+  font-size: 14px;
+  color: #222222;
+  padding: 10px 20px 10px 53px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  font-family: inherit;
+  text-decoration: none;
+  -webkit-box-shadow: inset 0px 0px 5px 0px rgba(0, 0, 0, 0.2);
+  -moz-box-shadow: inset 0px 0px 5px 0px rgba(0, 0, 0, 0.2);
+  box-shadow: inset 0px 0px 5px 0px rgba(0, 0, 0, 0.2);
+  -webkit-transition: box-shadow 200ms ease-out;
+  -moz-transition: box-shadow 200ms ease-out;
+  -o-transition: box-shadow 200ms ease-out;
+  transition: box-shadow 200ms ease-out;
+}
+.ukey1-button:hover,
+.ukey1-button:focus {
+  -webkit-box-shadow: inset 0px 0px 5px 0px rgba(0, 0, 0, 0.3);
+  -moz-box-shadow: inset 0px 0px 5px 0px rgba(0, 0, 0, 0.3);
+  box-shadow: inset 0px 0px 5px 0px rgba(0, 0, 0, 0.3);
+}
