@@ -1,5 +1,7 @@
 # Ukey1: an unified sign-in button
 
+![Ukey1 button](https://github.com/asaritech/ukey1-signin-button/blob/master/example/button_scr.jpg)
+
 ## Usage
 
 If you want to use our unified Ukey1 sign-in button on your website, it's very simple. 
