@@ -1,5 +1,8 @@
 # Ukey1: an unified sign-in button
 
+This is the version for direct login. [Here](https://github.com/asaritech/ukey1-signin-button2/) is the version for parallel login. 
+Learn more about button versions on our [demo page](http://ukey.one/demo/).
+
 ![Ukey1 button](https://github.com/asaritech/ukey1-signin-button/blob/master/example/button_scr.jpg)
 
 ## Usage
